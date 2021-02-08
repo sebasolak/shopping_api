@@ -31,7 +31,7 @@ http://localhost:{your_default_port}/register
 
 ## Api map:
 
-* Transfer founds to another user (POST request):
+* Transfer founds to another user (GET request):
 ```
 http://localhost:{your_default_port}/?name={user_name}&sur={user_surname}&transfer={founds}
 ```
